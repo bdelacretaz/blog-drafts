@@ -27,7 +27,50 @@ So, in summary, the following should allow your group to make decisions asynchro
 * Ideally, a case management system to keep track of each decision's details, in a much cleaner way than the often messy discussions that happen in email.
 
 ## Semi-asynchronous decision making at the ASF
-TODO: anonymized examples from the board meeting
+I've been a member of the ASF's board of directors for a few terms now, and I'm still impressed by how efficient our monthly phone conferences are. The meeting regularly lasts only 60 to 90 minutes, during which we approve around 50 projet reports, vote on a few resolutions and often address a few discussion items.
+
+Besides a few simple things like good phone discipline and a side channel for less important comments (and jokes), the main reason this meeting is so efficient is that _most everything is decided in advance_. 
+
+Board members are expected to read the project reports before the meeting, and a dead simple case management system, described below helps discuss issues in advance, and find out which reports require a more extensive discussion.
+
+Assuming the majority of board members have read the reports in advance, and flagged them as ok or requiring discussion, we don't need any housekeeping time during the meeting. Everybody shows up with a clear view of where difficult discussions might arise, so they have time to prepare for that, including asking the report's authors for clarification before the meeting so we can resolve any outstanding issues without delay.
+
+The case management system that we use for this is extremely simple, and calling it a case management system is quite a stretch - but in terms of enabling asynchronous (or rather semi-asynchronous) decision making it fullfills its role. Our meeting agenda consists of a _single text file in our source control system_, with a simple structure that provides for a small discussion space for each report that we have to approve and each resolution that we need to vote on.
+
+The agenda file structure looks roughly like this:
+
+   Call to order
+   Roll call
+   Officer reports
+   Project reports, headers and discussion space
+   Board Resolutions with discussion space
+   Appenxdix: Project reports, full text
+   
+And a project report header and discussion space is as simple as this:
+
+    E. Apache Blazinator Project [Bob Blazer / Bertrand]
+
+      See Attachment E
+
+      [ Blazinator.
+        approved: bd, mm, dd, db, jc, ldv
+        comments:
+		  bd:  Not sure why LEGAL-123 blocks their release
+		  ldv: They are waiting for the committer to supply
+		       an updated iCLA as the received one was 
+			   incomplete.
+		  bd:  Ok, thanks, approving the report then.
+        ]
+		
+This simple block of structured text builds a very simple "case management system" for the case of approving the Blazinator report. 
+
+The "approved" line indicates which board members have approved the report, on a single line so that simple tools can validate and count the approvals.
+
+The "comments" section allows stakeholders to comment on the report (which is found in the appendix later in the text file), and reply to
+each other's comments to hopefully reach closure before the meeting. If this happens, approving this report takes almost no time in the meeting, the chairman can just list the project names ("case identifiers" according to the above terminology) of such pre-approved reports,
+asking if anybody's opposed to approving them.
+
+Combined with the ASF board's mailing list, this builds a very simple and very efficient system for semi-asynchronous decision making. Most decisions are taken before the meeting, and the participants can spend their time where it actually adds value, that is in discussing controversial or difficult issues.
 
 ## The Swiss Federal Council works in the same way
 TODO: colored lists, collaboration system that leads to them
