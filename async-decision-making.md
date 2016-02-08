@@ -39,12 +39,12 @@ The case management system that we use for this is extremely simple, and calling
 
 The agenda file structure looks roughly like this:
 
-   Call to order
-   Roll call
-   Officer reports
-   Project reports, headers and discussion space
-   Board Resolutions with discussion space
-   Appenxdix: Project reports, full text
+    Call to order
+    Roll call
+    Officer reports
+    Project reports, headers and discussion space
+    Board Resolutions with discussion space
+    Appenxdix: Project reports, full text
    
 And a project report header and discussion space is as simple as this:
 
