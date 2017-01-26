@@ -1,8 +1,10 @@
 # Asynchronous decision making in open source teams
 
-_Asynchronous decision making_ is a key enabler of our geographically and culturally distributed open source teams. 
+_Asynchronous decision making_ is a key enabler of our geographically and culturally distributed open source teams. In this post I'll explain the ingredients that make it work at the ASF.
 
-If synchronous decision-making meetings were required, even using remote channels like IRC or videoconference, we would move forward at a snail-like pace, as just finding a time where all stakeholders are available is almost impossible in an environment that has no managers and no central schedule.
+I've been involved in the ASF since 2001 and [it's all Gianugo's fault](https://lists.apache.org/thread.html/c9180946d53733876c99dffba598017a736c9c31efac55a069f8efee@1006518708@%3Cfop-dev.xmlgraphics.apache.org%3E) - he was the one who started the discussions with Apache Fop about me donating the jfor XLS-FO to RTF converter that I had developed earlier. It was already too late to uninvent RTF which is a terrible format, but I digress. I am currently a member of the [Board of Directors](https://www.apache.org/foundation/board/) of the ASF and have been doing a lot of thinking (and [presentations](https://pinboard.in/u:bdelacretaz/t:pressbook/)) about  what makes the ASF tick in terms of collaboration and Shared Neurons.
+
+If synchronous decision-making meetings were required in ASF projects, even using remote channels like IRC or videoconference, we would move forward at a snail-like pace, as just finding a time where all stakeholders are available is almost impossible in an environment that has no managers and no central schedule.
 
 Meetings are also very expensive when you are working on a _maker's schedule_, as described by Paul Graham [1]. Frequent meetings ruin the productivity of craftsmen, and there's lots of craftmanship in our industry, especially when you're building leading edge stuff.
 
@@ -64,6 +66,11 @@ The "approved" line indicates which board members have approved the report, on a
 The "comments" section allows stakeholders to comment on the report (which is found in an appendix later in the text file), and reply to each other's comments to hopefully reach closure before the meeting. If this happens, approving this report takes almost no time in the meeting, the chairman can just list the project names ("case identifiers" according to the above terminology) of such pre-approved reports, asking if anybody's opposed to approving them.
 
 Combined with the ASF board's mailing list, this builds a very simple and very efficient system for semi-asynchronous decision making. Most decisions are taken before the meeting, and the participants can spend their time where it actually adds value as opposed to exchanging boring status information during the meeting.
+
+## Try it yourself!
+Many ASF and other Open Source projects release world-changing software while having no or very few meetings, demonstrating that these techniques work. 
+
+If you're bogged down with inefficient or useless meetings, I suggest that you try applying these principles to a meaningful subset of your decision making activities. People will need to hone their skills to work efficiently in this way, but the rewards can be huge for distributed teams.
 
 ## Appendix: Mailing lists at the ASF
 At the ASF we use mailing lists as our central asynchronous communications channel, based on our _if it didn't happen on the dev mailing list, it didn't happen_ rule [2]. Mailing lists might be seen as tools of the past when you compare them with the latest shiny tools, but they remain a ubiquitous way of communicating in loosely coupled remote groups, especially when used with a strong discipline of _Precise Quoting_ [3] and paying attention to meaningful subject lines. Unfortunately I hear some "modern" email clients make a mess of that quoting - just stay away from them.
