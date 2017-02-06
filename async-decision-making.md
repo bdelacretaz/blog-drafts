@@ -1,5 +1,7 @@
 # Asynchronous decision making in open source teams
 
+_This is now live at https://blogs.apache.org/foundation/entry/success-at-apache-asynchronous-decision _
+
 _Asynchronous decision making_ is a key enabler of our geographically and culturally distributed open source teams. In this post I'll explain the ingredients that make it work at the ASF.
 
 I became active in the ASF in 2001 [via Gianugo Rabellino](https://lists.apache.org/thread.html/c9180946d53733876c99dffba598017a736c9c31efac55a069f8efee@1006518708@%3Cfop-dev.xmlgraphics.apache.org%3E) - he was the one who started the discussions with Apache Fop about me donating the jfor XLS-FO to RTF converter that I had developed earlier. It was already too late to uninvent RTF which is a terrible format, but I digress. I am currently a member of the [Board of Directors](https://www.apache.org/foundation/board/) of the ASF and have been doing a lot of thinking (and [presentations](https://pinboard.in/u:bdelacretaz/t:pressbook/)) about  what makes the ASF tick in terms of collaboration and Shared Neurons.
