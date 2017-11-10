@@ -32,7 +32,7 @@ Based on my experience with these tools and techniques in various contexts, I be
 
 ## References
 * (Graham, 2009) : Paul Graham, _Maker's Schedule, Manager's Schedule_, July 2009 - http://www.paulgraham.com/makersschedule.html - 
-* (Mazzocchi, 2006): Stefano’s Mazzocchi’s Busy List Pattern, blog post by Bertrand Delacretaz presenting Stefano Mazzocchi's ideas - https://grep.codeconsult.ch/2011/12/ - 
+* (Mazzocchi, 2006): Stefano’s Mazzocchi’s Busy List Pattern, blog post by Bertrand Delacretaz presenting Stefano Mazzocchi's ideas - https://grep.codeconsult.ch/2011/12/06/stefanos-mazzocchis-busy-list-pattern/
 * (ASF, 1999): ASF voting rules - http://www.apache.org/foundation/voting.html
 * (Swiss Federal Council, 2017) : Federal Council meeting - how the meeting runs -  https://www.admin.ch/gov/en/start/federal-council/tasks/decision-making/federal-council-meeting.html
 * (Delacretaz, 2017) : Large Mailing Lists Survival Guide - https://grep.codeconsult.ch/2017/11/10/large-mailing-lists-survival-guide/
