@@ -2,7 +2,9 @@
 
 By Bertrand Delacretaz, November 2017 - @bdelacretaz, grep.codeconsult.ch
 
-_Asynchronous decision making_ is a key enabler of geographically and culturally distributed teams. This post is about the key principles and tools that make it possible.
+_Asynchronous decision making_ is a key enabler of geographically and culturally distributed software teams, which need to make dozens of small or large decisions every week as a group to be successful.
+
+This post is about the key principles and tools that make it possible.
 
 Synchronous decision-making meetings can be _extremely_ expensive for people who work on a Maker's Schedule (Graham, 2009) and are often impractical with remote teams anyway. There's no lack of jokes and parody videos about how phone or video meetings often derail into inefficient time wasters that people do their best to avoid.
 
