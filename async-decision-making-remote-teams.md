@@ -1,6 +1,6 @@
 # Asynchronous decision making in remote teams
 
-By Bertrand Delacretaz, November 2017 - @bdelacretaz, grep.codeconsult.ch
+By Bertrand Delacretaz, November 2017 - @bdelacretaz, grep.codeconsult.ch - all rights reserved
 
 _Asynchronous decision making_ is a key enabler of geographically and culturally distributed software teams, which need to make dozens of small or large decisions every week as a group to be successful.
 
