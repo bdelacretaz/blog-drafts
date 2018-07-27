@@ -17,11 +17,13 @@ This means that if the released software is ever involved in legal action and so
 
 The goal of our release process is to make it very clear what an Apache Release is, and also clarify that anyone using our software in other ways, by getting it directly from our code repositories for example, does so at their own risk. If it's not an Apache Release we didn't give it to them, they grabbed it on their own initiative and have to accept the consequences of that.
 
-Developer Builds
+The Rest is for Contributors
 -----
 This leads to a second and related item: developer builds, which happen much more often than releases, often daily, and that people can easily download and use.
 
-To avoid any confusion, it is important to clearly label these things as being meant for development and testing only, and to draw a clear line between them and official Apache Releases. Those builds should only be advertised in places where developers who are part of our communities (as opposed to the general public) can see them, and with suitable disclaimers.
+Those builds are meant for contriubutors to our projects, to use in development and testing as part of their contribution activities.
+
+To avoid any confusion, it is important to clearly label them as such, and to draw a clear line between them and official Apache Releases. They should only be advertised in places where developers who are part of our communities (as opposed to the general public) can see them, and with suitable disclaimers.
 
 In our world of continuous deployment and automated builds, the lines between what's a release and what's just tagged code that works for someone are often blurred. That's totally fine from a technical point of view, and often desirable when one wants to move fast, but we shouldn't forget about the possible legal implications ot distributing software.
 
