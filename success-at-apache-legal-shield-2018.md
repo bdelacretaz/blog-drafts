@@ -5,7 +5,7 @@ Success at Apache: the Apache Legal Shield - a pragmatic view
 
 Section 12.1 of the Apache Bylaws [1] describes the legal protection that the Apache Software Foundation provides to our directors, officers and members. 
 
-I'm not a lawyer by far, however, and that language is a bit hard to parse into a pragmatic set of recommendations, so I thought I'd try to clarify what this means for our contributors.
+I'm not a lawyer by far, however, and that language is a bit hard for me to parse, so I thought I'd try to clarify what this means for our contributors and learn more about it in the process.
 
 If you go into detail there's certainly more to it than my pragmatic and simplified view below, but I think the two items below are the absolute basics that every PMC member should understand in order to benefit from the legal shield that the Foundation provides.
 
