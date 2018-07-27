@@ -27,7 +27,7 @@ In our world of continuous deployment and automated builds, the lines between wh
 
 Let's make sure we take advantage of the well-designed Apache Legal Shield that the Foundation provides to us, by strictly following our release policy and clearly specifying what is what in terms of downloadable software.
 
-_I never thought I'd write a blog post on a legal topic, so here's the FUN DISCLAIMER: As mentioned, I am not a lawyer by far, and the above should not be considered legal advice - just a pragmatic view that can hopefully help our contributors better understand the related issues. For legal advice, consult a professional! And if you're thirsty now, get a drink!_
+_I never thought I'd write a blog post on a legal topic, so here's the FUN DISCLAIMER: As mentioned, I am not a lawyer by far, and the above should not be considered legal advice - just a pragmatic view that can hopefully help our contributors better understand the related issues. For legal advice, consult a professional! And if you're thirsty after reading all this, get a drink!_
 
 [1] https://www.apache.org/foundation/bylaws
 
