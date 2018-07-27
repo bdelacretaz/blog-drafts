@@ -13,9 +13,9 @@ Acts of the Foundation
 ------
 The first thing is to make sure our software releases are "Acts of the Foundation" as opposed to something that people do in their own name. This is natural if we follow our release policy [2], which defines a simple release approval process which makes the project's PMC [3] responsible for the release, as opposed to our individual contributors and release managers. 
 
-This means that if the released software is ever involved in legal action and someone has to testify or produce information as part of a subpoena, or worse, it's the Foundation which is in charge of that and not our individual contributors. These things happen from time to time, not very often but they can represent a lot of work and aggravation that none of us are looking for. The Oracle subpoena to Apache [4] is just one example of that.
+This means that if the released software is ever involved in legal action and someone has to testify or produce information as part of a subpoena, or worse, it's the Foundation which is in charge of that and not our individual contributors. These things happen from time to time, not very often but they can represent a lot of work and aggravation that none of us are looking for. The 2011 Oracle subpoena to Apache [4] is just one example of that. _Produce documents reflecting all communications between someone and Apache_, how fun is that?
 
-The goal of our release process is to make it very clear what an Apache Release is, and that anyone using our software in other ways, by getting it directly from our code repositories for example, does so at their own risk.
+The goal of our release process is to make it very clear what an Apache Release is, and also clarify that anyone using our software in other ways, by getting it directly from our code repositories for example, does so at their own risk. If it's not an Apache Release we didn't give it to them, they grabbed it on their own initiative and have to accept the consequences of that.
 
 Developer Builds
 -----
