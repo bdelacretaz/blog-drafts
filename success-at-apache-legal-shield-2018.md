@@ -29,7 +29,7 @@ _I never thought I'd write a blog post on a legal topic, so here's the FUN DISCL
 
 [1] https://www.apache.org/foundation/bylaws
 
-[2] http://www.apache.org/legal/release-policy.html
+[2] https://www.apache.org/legal/release-policy.html
 
 [3] https://www.apache.org/foundation/how-it-works.html
 
