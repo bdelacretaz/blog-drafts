@@ -11,7 +11,7 @@ If you go into detail there's certainly more to it than my pragmatic and simplif
 
 Acts of the Foundation
 ------
-The first thing is to make sure our software releases are "Acts of the Foundation" as opposed to something that people do in their own name. This is natural if we follow our release policy [2], which defines a simple release approval process that makes the project's PMC [3] responsible for the release, as opposed to our individual contributors and release managers. 
+The first thing is to make sure our software releases are "Acts of the Foundation" as opposed to something that people do in their own name. This is natural if we follow our release policy [2], which defines a simple release approval process for releasing source code that makes the project's PMC [3] responsible for the release, as opposed to our individual contributors and release managers.
 
 This means that if the released software is ever involved in legal action and someone has to testify or produce information as part of a subpoena, or worse, it's the Foundation which is in charge of that and not our individual contributors. These things happen from time to time, not very often but they can represent a lot of work and aggravation that none of us are looking for. The 2011 subpoena to Apache around Java and Android [4] is just one example of that. _Produce documents reflecting all communications between someone and Apache_, how fun is that?
 
