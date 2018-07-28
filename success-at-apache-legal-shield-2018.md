@@ -9,6 +9,12 @@ I'm not a lawyer by far, however, and that language is a bit hard for me to pars
 
 If you go into detail there's certainly more to it than my pragmatic and simplified view below, but I think the two items below are the absolute basics that every PMC member should understand in order to benefit from the legal shield that the Foundation provides.
 
+What is a "Legal Shield" ?
+-----
+An important goal of the Apache Bylaws and policies is to isolate our contributors from any legal action that might be taken against the Foundation, if they act as specified in those policies. 
+
+That's what we mean by "legal shield": a _way for our individual volunters to be sheltered from legal suits directed at the Foundation's projects_, as mentioned in our "How the ASF works" document [5].
+
 Acts of the Foundation
 ------
 The first thing is to make sure our software releases are "Acts of the Foundation" as opposed to something that people do in their own name. This is natural if we follow our release policy [2], which defines a simple release approval process for releasing source code that makes the project's PMC [3] responsible for the release, as opposed to our individual contributors and release managers.
@@ -31,6 +37,8 @@ Let's make sure we take advantage of the well-designed Apache Legal Shield that 
 
 _I never thought I'd write a blog post on a legal topic, so here's the FUN DISCLAIMER: As mentioned, I am not a lawyer by far, and the above should not be considered legal advice - just a pragmatic view that can hopefully help our contributors better understand the related issues. For legal advice, consult a professional! And if you're thirsty after reading all this, get a drink!_
 
+_Many thanks to the fellow Apache members who provided feedback and additional ideas for this post_.
+
 [1] https://www.apache.org/foundation/bylaws
 
 [2] https://www.apache.org/legal/release-policy.html
@@ -38,3 +46,5 @@ _I never thought I'd write a blog post on a legal topic, so here's the FUN DISCL
 [3] https://www.apache.org/foundation/how-it-works.html
 
 [4] http://www.groklaw.net/articlebasic.php?story=20110509221136468
+
+[5] https://www.apache.org/foundation/how-it-works.html
