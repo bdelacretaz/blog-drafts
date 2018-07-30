@@ -7,7 +7,7 @@ Section 12.1 of the Apache Bylaws [1] describes the legal protection that the Ap
 
 I'm not a lawyer by far, however, and that language is a bit hard for me to parse, so I thought I'd try to clarify what this means for our contributors and learn more about it in the process.
 
-If you go into detail there's certainly more to it than my pragmatic and simplified view below, but I think the two items below are the absolute basics that every PMC member should understand in order to benefit from the legal shield that the Foundation provides.
+If you go into detail there's certainly more to it than my pragmatic and simplified view below, but I think the items below are the absolute basics that every PMC member [3] should understand in order to benefit from the legal shield that the Foundation provides.
 
 > TODO add "how I joined the ASF" intro from https://blogs.apache.org/foundation/entry/success-at-apache-asynchronous-decision (doesn't need to be reviewed)
 
