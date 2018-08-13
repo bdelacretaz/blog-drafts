@@ -1,4 +1,4 @@
-**DRAFT DRAFT DRAFT - this needs review, it's just a DRAFT, ok?**
+** This is now LIVE at https://blogs.apache.org/foundation/entry/success-at-apache-the-apache1 ***
 
 Success at Apache: the Apache Legal Shield - a pragmatic view
 ========
